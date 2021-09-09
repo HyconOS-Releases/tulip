@@ -2,4 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/tulip/v4.5.1/total.svg)](https://github.com/HyconOS-Releases/tulip/releases)
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/tulip/v4.5/total.svg)](https://github.com/HyconOS-Releases/tulip/releases)
